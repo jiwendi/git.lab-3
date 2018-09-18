@@ -1,1 +1,1 @@
-<?phpmyVar= echo 'Hello World'
+<?phpmyVar= echo 'Hello World';
